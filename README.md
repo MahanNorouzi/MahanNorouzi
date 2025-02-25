@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 I'm Mahan</h1>
 
-<!--
-**MahanNorouzi/MahanNorouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I'm a 4th-term programming student with a 4.5 GPA, aiming for a Master’s & PhD in the USA (fully funded, of course). I love building clean, responsive UIs, optimizing user experiences, and pushing my limits<br><br>💻 What I'm Working On<br>🔹 Developing a crypto wallet designed for security, efficiency, and elegance.<br>🔹 Learning Full-Stack Development – Expanding my skills in React, Node.js, and databases.<br>🔹 Exploring Data Analytics – Diving into insights and decision-making through data.<br>🔹 Mastering animations & UX – Because great design is more than just pixels.<br><br><br>🏆 Beyond Code<br>💪 Bodybuilder – Certified gym bro<br>🚗 Car Enthusiast – Always geeking out over performance, tuning, and classic designs.<br>🎮 Casual Gamer, especially Call of Duty, because precision matters.<br><br>📫 Let's Connect<br>🟡 Always open to collaborations, discussions, and challenges. Drop a PR or an issue, and let’s build something great!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahanNorouzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
