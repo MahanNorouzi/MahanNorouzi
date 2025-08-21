@@ -1,21 +1,19 @@
+# 👋 Hi there!  
+I’m Mahan, a Front-End Developer.
 
-# 👋 Hey, I'm Mahan
+I craft responsive, high-performance interfaces.
 
-💻 **Front-End Developer**  
-I craft responsive, high-performance interfaces that look sharp and feel smooth.
+---
 
 ## 🛠️ What I’m Into
-- Building clean, modern UIs
-- Writing scalable, maintainable code
-- Exploring new front-end tech and design trends
+Building clean, modern UIs
+Writing scalable maintainable code
+Exploring new front-end tech and design trends
 
-## 🏎️ Outside the Code
-When I’m not coding, you’ll catch me:
-- 🏋️‍♂️ Crushing it at the gym
+---
+
+## 🎨 Outside the Code
+When I’m not deep in code, you’ll find me:
 - 🚗 Geeking out over cars
-
-
-
-
-
+- 🏋️‍♀️ Hitting the gym  
 
