@@ -6,9 +6,9 @@ I craft responsive, high-performance interfaces.
 ---
 
 ## 🛠️ What I’m Into
-Building clean, modern UIs
-Writing scalable maintainable code
-Exploring new front-end tech and design trends
+- Building clean, modern UIs
+- Writing scalable maintainable code
+- Exploring new front-end tech and design trends
 
 ---
 
