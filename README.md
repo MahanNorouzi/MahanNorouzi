@@ -1,12 +1,25 @@
-<h1 align="left">Hey There 👋 I'm Mahan</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+# 👋 Hey, I'm Mahan
 
-###
+💻 **Front-End Developer**  
+I craft responsive, high-performance interfaces that look sharp and feel smooth.
 
-<p align="left">I'm a 4th-term programming student with a 4.5 GPA, aiming for a Master’s & PhD. I love building clean, responsive UIs, optimizing user experiences, and pushing my limits<br><br> <h2>💻 What I'm Working On</h2><br>🔹 Developing a crypto wallet designed for security, efficiency, and elegance.<br>🔹 Learning Full-Stack Development – Expanding my skills in React, Node.js, and databases.<br>🔹 Exploring Data Analytics – Diving into insights and decision-making through data.<br>🔹 Mastering animations & UX – Because great design is more than just pixels.<br><br><br><h2>🏆 Beyond Code</h2><br>💪 Bodybuilder – Certified gym bro<br>🚗 Car Enthusiast – Always geeking out over performance, tuning, and classic designs.<br>🎮 Casual Gamer, especially Call of Duty <br><br><h2>📫 Let's Connect</h2><br>🟡 Always open to collaborations, discussions, and challenges. Drop a PR or an issue, and let’s build something great!</p>
+---
+
+## 🛠️ What I’m Into
+- Building clean, modern UIs
+- Writing scalable, maintainable code
+- Exploring new front-end tech and design trends
+
+
+## 🏎️ Outside the Code
+When I’m not coding, you’ll catch me:
+- 🏋️‍♂️ Crushing it at the gym
+- 🚗 Geeking out over cars
+- 🎮 Occasionally gaming
+
 
 ###
 
