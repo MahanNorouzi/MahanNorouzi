@@ -17,7 +17,7 @@
 
 ## 👋 About me
 
-Final-year Computer Engineering student who cares a lot about how interfaces *feel*: the easing, the spacing, the 60fps. I build responsive UIs and I'm actively looking for my **first front-end internship**.
+Final-year Computer Engineering student. I build responsive UIs and I'm actively looking for my **first front-end internship**.
 
 ## 🚀 Featured projects
 
